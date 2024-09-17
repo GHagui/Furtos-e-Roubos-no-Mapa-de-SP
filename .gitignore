@@ -160,3 +160,104 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+bairros_furto_outros_none.txt
+bairros_roubo_outros_none.txt
+bairros.txt
+log.txt
+log2.txt
+.vscode/launch.json
+src/data.csv
+src/DP-2023/OcorrenciaMensal(Criminal)-001 DP - Sé_20240908_200004.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-002 DP - Bom Retiro_20240908_200027.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-003 DP - Campos Elísios_20240908_200032.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-004 DP - Consolação_20240908_200036.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-005 DP - Aclimação_20240908_200041.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-006 DP - Cambuci_20240908_200047.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-007 DP - Lapa_20240908_200053.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-008 DP - Brás_20240908_200102.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-009 DP - Carandiru_20240908_200107.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-010 DP - Penha de França_20240908_200117.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-011 DP - Santo Amaro_20240908_200122.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-012 DP - Pari_20240908_200126.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-013 DP - Casa Verde_20240908_200131.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-014 DP - Pinheiros_20240908_200136.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-015 DP - Itaim Bibi_20240908_200143.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-016 DP - Vila Clementino_20240908_200147.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-017 DP - Ipiranga_20240908_200152.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-018 DP - Alto da Moóca_20240908_200158.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-019 DP - Vila Maria_20240908_200204.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-020 DP - Água Fria_20240908_200209.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-021 DP - Vila Matilde_20240908_200214.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-022 DP - São Miguel Paulista_20240908_200219.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-023 DP - Perdizes_20240908_200224.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-024 DP - Ponte Rasa_20240908_200229.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-025 DP - Parelheiros_20240908_200234.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-026 DP - Sacomã_20240908_200240.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-027 DP - Campo Belo_20240908_200245.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-028 DP - Freguesia do Ó_20240908_200250.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-029 DP - Vila Diva_20240908_200256.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-030 DP - Tatuapé_20240908_200301.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-031 DP - Vila Carrão_20240908_200306.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-032 DP - Itaquera_20240908_200310.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-033 DP - Pirituba_20240908_200317.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-034 DP - Vila Sonia_20240908_200322.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-035 DP - Jabaquara_20240908_200328.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-036 DP - Vila Mariana_20240908_200332.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-037 DP - Campo Limpo_20240908_200338.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-038 DP - Vila Amália_20240908_200343.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-039 DP - Vila Gustavo_20240908_200349.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-040 DP - Vila Santa Maria_20240908_200355.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-041 DP - Vila Rica_20240908_200400.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-042 DP - Parque São Lucas_20240908_200431.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-043 DP - Cidade Ademar_20240908_200436.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-044 DP - Guaianazes_20240908_200442.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-045 DP - Vila Brasilândia_20240908_200447.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-046 DP - Perus_20240908_200453.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-047 DP - Capão Redondo_20240908_200458.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-048 DP - Cidade Dutra_20240908_200502.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-049 DP - São Mateus_20240908_200507.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-050 DP - Itaim Paulista_20240908_200512.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-051 DP - Butantã_20240908_200517.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-052 DP - Parque São Jorge_20240908_200522.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-053 DP - Parque do Carmo_20240908_200526.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-054 DP - Cidade Tiradentes_20240908_200531.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-055 DP - Parque São Rafael_20240908_200536.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-056 DP - Vila Alpina_20240908_200541.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-057 DP - Parque da Moóca_20240908_200546.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-058 DP - Vila Formosa_20240908_200550.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-059 DP - Jardim Noemia_20240908_200555.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-062 DP - Ermelino Matarazzo_20240908_200559.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-063 DP - Vila Jacuí_20240908_200604.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-064 DP - Cidade A E Carvalho_20240908_200713.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-065 DP - Artur Alvim_20240908_200614.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-066 DP - Vale do Aricanduva_20240908_200620.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-067 DP - Jardim Robru_20240908_200624.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-068 DP - Lajeado_20240908_200700.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-068 DP - Lajeado_20240908_200733.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-069 DP - Teotônio Vilela_20240908_200735.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-070 DP - Vila Ema_20240908_200738.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-072 DP - Vila Penteado_20240908_200739.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-073 DP - Jaçanã_20240908_200741.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-074 DP - Jaraguá_20240908_200743.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-075 DP - Jardim Arpoador_20240908_200746.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-077 DP - Santa Cecília_20240908_200748.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-078 DP - Jardins_20240908_200750.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-080 DP - Vila Joaniza_20240908_200752.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-081 DP - Belém_20240908_200754.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-083 DP - Parque Bristol_20240908_200756.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-085 DP - Jardim Mirna_20240908_200758.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-087 DP - Vila Pereira Barreto_20240908_200800.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-089 DP - Portal do Morumbi_20240908_200802.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-090 DP - Parque Novo Mundo_20240908_200805.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-091 DP - Ceagesp_20240908_200807.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-092 DP - Parque Santo Antônio_20240908_200810.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-093 DP - Jaguaré_20240908_200811.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-095 DP - Heliópolis_20240908_200814.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-096 DP - Monções_20240908_200816.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-097 DP - Americanópolis_20240908_200818.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-098 DP - Jardim Míriam_20240908_200821.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-099 DP - Campo Grande_20240908_200823.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-100 DP - Jardim Herculano_20240908_200825.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-101 DP - Jardim das Imbuias_20240908_200826.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-102 DP - Socorro_20240908_200830.xlsx
+src/DP-2023/OcorrenciaMensal(Criminal)-103 DP - Cohab Itaquera_20240908_200832.xlsx
